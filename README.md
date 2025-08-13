@@ -9,11 +9,11 @@
 ---
 
 ## 🚀 About Me
-💡 Currently exploring **AI**, **GenAI**, **Agentic AI**, and **full-stack development**  
-🧠 Passionate about **artificial intelligence** and **data science**  
-🔗 Experienced in **REST APIs**, **backend systems**, and **automation workflows**  
-⚙️ Working with tools like **LangChain**, **LangGraph**, **CrewAI**, and **n8n**  
-📌 Mission: Build intelligent, scalable systems that solve real-world problems
+ Currently exploring **AI**, **GenAI**, **Agentic AI**, and **full-stack development**  
+ Passionate about **artificial intelligence** and **data science**  
+ Experienced in **REST APIs**, **backend systems**, and **automation workflows**  
+ Working with tools like **LangChain**, **LangGraph**, **CrewAI**, and **n8n**  
+ Mission: Build intelligent, scalable systems that solve real-world problems
 
 ---
 
@@ -40,7 +40,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 ---
 
@@ -59,7 +59,7 @@
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)][(https://www.linkedin.com/in/muhammad-saad-nadeem)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-saad-nadeem)  
 
 
 ---
