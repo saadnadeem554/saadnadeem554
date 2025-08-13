@@ -4,24 +4,31 @@
 </p>
 
 <!-- Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C853&width=550&lines=Hi+there!+I'm+Saad+👋;AI+%7C+Full-Stack+%7C+Data+Engineering;Building+impactful+solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C853&width=650&lines=Hi+there!+I'm+Saad+👋;Exploring+AI%2C+GenAI%2C+AgenticAI;Full-Stack+%7C+Backend+%7C+Data+Science;Building+Smart+and+Scalable+Systems)](https://git.io/typing-svg)
 
 ---
 
 ## 🚀 About Me
-💡 Passionate about **LLMs**, **Agentic AI**, and **scalable web applications**  
-📊 Skilled in **Data Engineering**, **APIs**, and **large-scale ETL pipelines**  
-🌱 Currently exploring **Next.js**, **LangChain**, and **MLOps**  
-🎯 Mission: Build AI-powered tools to make learning more accessible  
+💡 Currently exploring **AI**, **GenAI**, **Agentic AI**, and **full-stack development**  
+🧠 Passionate about **artificial intelligence** and **data science**  
+🔗 Experienced in **REST APIs**, **backend systems**, and **automation workflows**  
+⚙️ Working with tools like **LangChain**, **LangGraph**, **CrewAI**, and **n8n**  
+📌 Mission: Build intelligent, scalable systems that solve real-world problems
 
 ---
 
 ## 🛠️ Tech Stack
 **Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**AI/ML & Automation:**  
+![LangChain](https://img.shields.io/badge/LangChain-1A1A1A?style=for-the-badge&logo=chainlink&logoColor=white)  
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=graph&logoColor=white)  
+![CrewAI](https://img.shields.io/badge/CrewAI-2C3E50?style=for-the-badge&logo=teamspeak&logoColor=white)  
+![n8n](https://img.shields.io/badge/n8n-1A82E2?style=for-the-badge&logo=n8n&logoColor=white)
 
 **Frameworks & Tools:**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
@@ -37,17 +44,17 @@
 
 ---
 
-## 📂 Featured Projects
-- 🚀 [**AI-Powered Education Tool**](#) – Adaptive learning platform using LLMs  
-- 📊 [**Data Pipeline for Large Datasets**](#) – ETL workflow for millions of Excel rows  
-- 💼 [**Full-Stack CRM**](#) – Built with Next.js, Prisma, PostgreSQL  
-
----
-
 ## 📊 GitHub Stats
 ![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=false)
+
+---
+
+## 📝 Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!-- This section will be automatically updated every day with your latest GitHub activity -->
+<!--END_SECTION:activity-->
 
 ---
 
@@ -58,4 +65,4 @@
 
 ---
 
-⭐️ _Thanks for stopping by! Feel free to explore my repositories and reach out._
+⭐ _Thanks for visiting! Let’s build something awesome together._
