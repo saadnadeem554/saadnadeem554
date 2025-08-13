@@ -53,7 +53,6 @@
 
 ## 📝 Recent GitHub Activity
 <!--START_SECTION:activity-->
-<!-- This section will be automatically updated every day with your latest GitHub activity -->
 <!--END_SECTION:activity-->
 
 ---
